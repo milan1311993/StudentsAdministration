@@ -1,9 +1,14 @@
 # StudentsAdministration
 
-*This is a simple application for students and faculty administration. Once you sign up you can use this app. As a regular user, you can see a list of all students (first name, last name, index number, level of studies and year of studies), clicking on button "Download .xclx file" you may choose where you want to download this list as the excel file. On the right side of the panel you may see your user name, you may delete your account and you are able to sign off. 
-On the other side, if you are logged in as admin (user name: admin, password admin) you may add new students, delete and edit some student. Also, logged in as admin you may filtered list of students by the level of studies (undergraduate, master, PhD).*
+*This is a simple application for students and faculty administration. Once you sign up you can use this app. As a regular user, you can see the list of currently enrolled students from the base with this information for each of them: first name, last name, index number, level of studies and year of studies. Clicking on button "Download .xclx file" you may choose where you want to download this list as the excel file. On the right side of the panel you may see your user name, you may delete your account and you are able to sign off. 
+On the other side, if you are logged in as admin (user name: admin, password admin) you may add new students in the base following the instructions about mandatory fields and input data. You may delete and edit wanted student. Also, logged in as admin you may filtered list of students by the level of studies (undergraduate, master, PhD).*
 
-For the graphical user interface (**GUI**) I used the ***SWING*** with manual adjustment of the panels layout. 
+Take a look at my app opening screenshots folder with 8 pictures!
+
+For the graphical user interface (**GUI**) I used the ***SWING*** with manual adjustment of the panels layout.
+Clicking on some buttons through the app the pop up window appears with notification or warning message (for example, button for delete student, button for sign up, sign in etc.)
+Pay attention to the mandatory and optional fields within the registration process. You cannot open your account if the mandatory fields are not fulfilled! 
+
 
 If you want to test or use this app you have to do next:
 
