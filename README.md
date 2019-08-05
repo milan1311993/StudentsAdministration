@@ -7,7 +7,7 @@ Take a look at my app opening screenshots folder with 8 pictures!
 
 For the graphical user interface (**GUI**) I used the ***SWING*** with manual adjustment of the panels layout.
 Clicking on some buttons through the app the pop up window appears with notification or warning message (for example, button for delete student, button for sign up, sign in etc.)
-Pay attention to the mandatory and optional fields within the registration process. You cannot open your account if the mandatory fields are not fulfilled! 
+Pay attention to the mandatory and optional fields within the registration process. You cannot open your account if the mandatory fields are not fulfilled! I used **ApachePOI** for writing excel file (.xclx) with list of all the students from the base.
 
 
 If you want to test or use this app you have to do next:
