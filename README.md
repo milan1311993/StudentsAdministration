@@ -3,7 +3,7 @@
 *This is a simple application for students and faculty administration. Once you sign up you can use this app. As a regular user, you can see the list of currently enrolled students from the base with this information for each of them: first name, last name, index number, level of studies and year of studies. Clicking on button "Download .xclx file" you may choose where you want to download this list as the excel file. On the right side of the panel you may see your user name, you may delete your account and you are able to sign off. 
 On the other side, if you are logged in as admin (user name: admin, password admin) you may add new students in the base following the instructions about mandatory fields and input data. You may delete and edit wanted student. Also, logged in as admin you may filtered list of students by the level of studies (undergraduate, master, PhD).*
 
-Take a look at my app opening screenshots folder with 10 pictures!
+Take a look at my app opening screenshots folder with 11 pictures!
 
 For the graphical user interface (**GUI**) I used the ***SWING*** with manual adjustment of the panels layout.
 Clicking on some buttons through the app the pop up window appears with notification or warning message (for example, button for delete student, button for sign up, sign in etc.)
